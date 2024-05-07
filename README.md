@@ -1,4 +1,3 @@
-Description
 This WordPress plugin allows you to search for specific text within the files of the currently active theme. It provides a convenient way to find occurrences of particular phrases or code snippets within your theme files.
 
 Installation:
